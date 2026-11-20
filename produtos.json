@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 4,
+      "item_id": "MLB6161925990",
+      "nome": "Relógio Inteligente Smartwatch GPS Autônomo À",
+      "preco": "R$ 189,99",
+      "desconto": "68%",
+      "link": "https://meli.la/2mQEkrk",
+      "imagem": "img/4.jpg",
+      "data": "19/11/2026"
+    },
+    {
       "numero": 3,
       "item_id": "MLB3533684445",
       "nome": "Projetor Portátil 4K Android 11 Wi-Fi Bluetooth",
