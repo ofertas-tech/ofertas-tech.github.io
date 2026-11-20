@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 5,
+      "item_id": "MLB5410852112",
+      "nome": "Fone De Ouvido Soundcore by Anker P20i Graves",
+      "preco": "R$ 129",
+      "desconto": "56%",
+      "link": "https://meli.la/1ZbirFc",
+      "imagem": "img/5.jpg",
+      "data": "20/11/2026"
+    },
+    {
       "numero": 4,
       "item_id": "MLB6161925990",
       "nome": "Relógio Inteligente Smartwatch GPS Autônomo À",
