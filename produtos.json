@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 8,
+      "item_id": "MLB5344834830",
+      "nome": "Monitor Gamer Samsung Odyssey G5, 27 , Qhd,",
+      "preco": "R$ 900,68 no Pix",
+      "desconto": "49%",
+      "link": "https://meli.la/1L5zNCy",
+      "imagem": "img/8.jpg",
+      "data": "21/11/2026"
+    },
+    {
       "numero": 7,
       "item_id": "MLB4586939271",
       "nome": "Massageador Pescoço Ombro Recarregável Maozinha",
