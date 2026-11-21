@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 7,
+      "item_id": "MLB4586939271",
+      "nome": "Massageador Pescoço Ombro Recarregável Maozinha",
+      "preco": "R$ 74",
+      "desconto": "69%",
+      "link": "https://meli.la/2eDwvbj",
+      "imagem": "img/7.jpg",
+      "data": "21/11/2026"
+    },
+    {
       "numero": 6,
       "item_id": "MLB7398252156",
       "nome": "Power Bank Pro 20000mAH ELG PB200BK, Bateria",
