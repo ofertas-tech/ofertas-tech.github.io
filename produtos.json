@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 10,
+      "item_id": "MLB7902465436",
+      "nome": "Monitor Gamer 27\" Acer Nitro KG0 com Tela Full",
+      "preco": "R$ 561",
+      "desconto": "62%",
+      "link": "https://meli.la/1Gu3h8H",
+      "imagem": "img/10.jpg",
+      "data": "22/11/2026"
+    },
+    {
       "numero": 9,
       "item_id": "MLB4295188001",
       "nome": "Carrinho Controle Remoto Rally Jipe Max Carro",
