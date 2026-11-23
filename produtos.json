@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 11,
+      "item_id": "MLB7076442330",
+      "nome": "Compressor De Ar Mini Bomba Calibrador De Ar",
+      "preco": "R$ 69,99",
+      "desconto": "65%",
+      "link": "https://meli.la/32SEWCg",
+      "imagem": "img/11.jpg",
+      "data": "23/11/2026"
+    },
+    {
       "numero": 10,
       "item_id": "MLB7902465436",
       "nome": "Monitor Gamer 27\" Acer Nitro KG0 com Tela Full",
