@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 12,
+      "item_id": "MLB5887072302",
+      "nome": "Monitor Gamer Curvo AOC AGON QUAD 34\" Ultrawide",
+      "preco": "R$ 1.579",
+      "desconto": "43%",
+      "link": "https://meli.la/34m4Jyy",
+      "imagem": "img/12.jpg",
+      "data": "23/11/2026"
+    },
+    {
       "numero": 11,
       "item_id": "MLB7076442330",
       "nome": "Compressor De Ar Mini Bomba Calibrador De Ar",
