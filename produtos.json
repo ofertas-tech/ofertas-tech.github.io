@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 29,
+      "item_id": "MLB5453100486",
+      "nome": "Fone Ouvido Bluetooth Regulável Com Microfone E",
+      "preco": "R$ 60,58",
+      "desconto": "59%",
+      "link": "https://meli.la/2sKMvND",
+      "imagem": "img/29.jpg",
+      "data": "27/11/2026"
+    },
+    {
       "numero": 28,
       "item_id": "MLB5354094574",
       "nome": "Tablet Samsung Galaxy Tab S10 FE WiFi, 128GB,",
