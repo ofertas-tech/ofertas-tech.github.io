@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 24,
+      "item_id": "MLB6641507928",
+      "nome": "Cadeira Gamer Jogos Setup Profissional",
+      "preco": "R$ 335,73 no Pix",
+      "desconto": "51%",
+      "link": "https://meli.la/1JLdXYX",
+      "imagem": "img/24.jpg",
+      "data": "27/11/2026"
+    },
+    {
       "numero": 23,
       "item_id": "MLB7576857734",
       "nome": "Carregador Portátil De Bolso Power Bank Pocket",
