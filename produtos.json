@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 19,
+      "item_id": "MLB7693557186",
+      "nome": "Amazon Firetv Stick 4k Stick Wi-fi-6 Com Alexa",
+      "preco": "R$ 278,73 no Pix",
+      "desconto": "50%",
+      "link": "https://meli.la/1of2ohb",
+      "imagem": "img/19.jpg",
+      "data": "27/11/2026"
+    },
+    {
       "numero": 18,
       "item_id": "MLB5980818460",
       "nome": "Caixa De Som Bluetooth Potente Amplificada 1000w",
