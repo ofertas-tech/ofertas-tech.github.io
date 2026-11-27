@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 31,
+      "item_id": "MLB6633070512",
+      "nome": "Fone de Ouvido JSKJ A520 TWS Esportivo Com",
+      "preco": "R$ 64,88",
+      "desconto": "61%",
+      "link": "https://meli.la/1mLJCvu",
+      "imagem": "img/31.jpg",
+      "data": "27/11/2026"
+    },
+    {
       "numero": 30,
       "item_id": "MLB5746034018",
       "nome": "Fone De Ouvido Sem Fio Bluetooth 5.4 Inova Tws",
