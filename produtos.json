@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 33,
+      "item_id": "MLB7620265142",
+      "nome": "Alaxe Caixa De Som Inteligente Comando Voz",
+      "preco": "R$ 58,33",
+      "desconto": "66%",
+      "link": "https://meli.la/184hRaD",
+      "imagem": "img/33.jpg",
+      "data": "27/11/2026"
+    },
+    {
       "numero": 32,
       "item_id": "MLB4229820771",
       "nome": "Caixa de Som Philco Extreme 350W Bluetooth 5.3",
