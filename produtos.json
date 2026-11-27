@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 34,
+      "item_id": "MLB4477329093",
+      "nome": "Webcam Camera Full Hd Zoom 1080p 360 Graus",
+      "preco": "R$ 33,28 no Pix",
+      "desconto": "57%",
+      "link": "https://meli.la/1YKv4WQ",
+      "imagem": "img/34.jpg",
+      "data": "27/11/2026"
+    },
+    {
       "numero": 33,
       "item_id": "MLB7620265142",
       "nome": "Alaxe Caixa De Som Inteligente Comando Voz",
