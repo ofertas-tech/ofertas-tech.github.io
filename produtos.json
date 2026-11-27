@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 25,
+      "item_id": "MLB4139111311",
+      "nome": "Caixa de Som Bluetooth PulseBox 3 1400W TWS",
+      "preco": "R$ 743,31 no Pix",
+      "desconto": "52%",
+      "link": "https://meli.la/2RSLHXh",
+      "imagem": "img/25.jpg",
+      "data": "27/11/2026"
+    },
+    {
       "numero": 24,
       "item_id": "MLB6641507928",
       "nome": "Cadeira Gamer Jogos Setup Profissional",
