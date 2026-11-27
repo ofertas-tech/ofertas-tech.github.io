@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 27,
+      "item_id": "MLB7568054394",
+      "nome": "Okut Hub Usb-c Tipo C Dock Thunderbolt Hdmi 4k",
+      "preco": "R$ 42",
+      "desconto": "57%",
+      "link": "https://meli.la/2oBxmth",
+      "imagem": "img/27.jpg",
+      "data": "27/11/2026"
+    },
+    {
       "numero": 26,
       "item_id": "MLB6855141102",
       "nome": "Cadeira gamer e escritório x-ray fit com led rgb",
