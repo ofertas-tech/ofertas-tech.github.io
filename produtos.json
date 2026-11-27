@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 18,
+      "item_id": "MLB5980818460",
+      "nome": "Caixa De Som Bluetooth Potente Amplificada 1000w",
+      "preco": "R$ 160",
+      "desconto": "62%",
+      "link": "https://meli.la/33CrnEr",
+      "imagem": "img/18.jpg",
+      "data": "27/11/2026"
+    },
+    {
       "numero": 17,
       "item_id": "MLB4587377807",
       "nome": "Fone de Ouvido Bluetooth Dapon H02D, Bluetooth",
