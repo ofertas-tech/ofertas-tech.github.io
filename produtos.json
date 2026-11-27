@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 23,
+      "item_id": "MLB7576857734",
+      "nome": "Carregador Portátil De Bolso Power Bank Pocket",
+      "preco": "R$ 42,90",
+      "desconto": "64%",
+      "link": "https://meli.la/281ExbW",
+      "imagem": "img/23.jpg",
+      "data": "27/11/2026"
+    },
+    {
       "numero": 22,
       "item_id": "MLB4422182615",
       "nome": "Projetor Smart Portátil Full Hd 4k Android 11",
