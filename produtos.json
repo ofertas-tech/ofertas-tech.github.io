@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 26,
+      "item_id": "MLB6855141102",
+      "nome": "Cadeira gamer e escritório x-ray fit com led rgb",
+      "preco": "R$ 619,90",
+      "desconto": "38%",
+      "link": "https://meli.la/2rZH3L6",
+      "imagem": "img/26.jpg",
+      "data": "27/11/2026"
+    },
+    {
       "numero": 25,
       "item_id": "MLB4139111311",
       "nome": "Caixa de Som Bluetooth PulseBox 3 1400W TWS",
