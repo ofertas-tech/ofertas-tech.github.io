@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 30,
+      "item_id": "MLB5746034018",
+      "nome": "Fone De Ouvido Sem Fio Bluetooth 5.4 Inova Tws",
+      "preco": "R$ 55",
+      "desconto": "57%",
+      "link": "https://meli.la/19rRb6p",
+      "imagem": "img/30.jpg",
+      "data": "27/11/2026"
+    },
+    {
       "numero": 29,
       "item_id": "MLB5453100486",
       "nome": "Fone Ouvido Bluetooth Regulável Com Microfone E",
