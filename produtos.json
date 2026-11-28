@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 39,
+      "item_id": "MLB7390928972",
+      "nome": "Monitor Portátil Gamer Bettdow de 15.6\" Full HD",
+      "preco": "R$ 445",
+      "desconto": "55%",
+      "link": "https://meli.la/24gUWp1",
+      "imagem": "img/39.jpg",
+      "data": "28/11/2026"
+    },
+    {
       "numero": 38,
       "item_id": "MLB5481598879",
       "nome": "Monitor PC Gamer LG 24”- IPS, Full HD, 100Hz,",
