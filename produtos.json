@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 36,
+      "item_id": "MLB4694447909",
+      "nome": "Fone De Ouvido Gamer Headset Led Computador",
+      "preco": "R$ 74,73",
+      "desconto": "53%",
+      "link": "https://meli.la/1aXLzZH",
+      "imagem": "img/36.jpg",
+      "data": "27/11/2026"
+    },
+    {
       "numero": 35,
       "item_id": "MLB4524861457",
       "nome": "Teclado Mecânico Gamer 60% Com Hotswap Rgb E",
