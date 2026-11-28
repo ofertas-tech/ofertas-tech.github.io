@@ -1,6 +1,16 @@
 {
   "produtos": [
     {
+      "numero": 37,
+      "item_id": "MLB6797100872",
+      "nome": "Mini Compressor Digital Portátil Bomba De Encher",
+      "preco": "R$ 58,05 no Pix",
+      "desconto": "63%",
+      "link": "https://meli.la/1Q6s6hV",
+      "imagem": "img/37.jpg",
+      "data": "28/11/2026"
+    },
+    {
       "numero": 36,
       "item_id": "MLB4694447909",
       "nome": "Fone De Ouvido Gamer Headset Led Computador",
